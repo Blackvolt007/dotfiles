@@ -1,7 +1,9 @@
 # dotfiles
----
-## Vim Configuration
 
-My personal **minimal and efficient Vim setup**.  
-This repo currently contains only my `.vimrc` file, but I’ll expand it later to include other dotfiles.
+Minimal configurations for productivity.
 
+Currently includes:
+- Vim configuration (`.vimrc`): my personal minimal and efficient Vim setup.
+- Tmux configuration (`.tmux.conf`): custom keybindings setup.
+
+More dotfiles will be added later.
